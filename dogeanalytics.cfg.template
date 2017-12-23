@@ -1,0 +1,5 @@
+[Database]
+hostname=localhost
+user=dogeanalytics
+password=topsecret
+database=dogeanalytics
